@@ -1,0 +1,8 @@
+ git init
+ 1501  git ststus
+ 1506  git add testing.py
+ 1517  ls -all
+ 1518  ls -a
+ 1520  git status
+ 1526  git restore testing.py
+ 1528  history
