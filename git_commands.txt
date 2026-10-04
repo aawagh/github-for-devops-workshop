@@ -6,3 +6,9 @@
  1520  git status
  1526  git restore testing.py
  1528  history
+ s-workshop.git (push)
+ 1539  git push -u origin main
+ 1540  git remote -v
+ 1541  git push origin master
+ 1542  git push origin master  
+ 
